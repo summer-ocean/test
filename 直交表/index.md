@@ -6,3 +6,4 @@
 [L<sub>18</sub>(3<sup>5</sup>)](l18_3_5.md)  
 [L<sub>18</sub>(2<sup>1</sup>3<sup>7</sup>)](l18_2_1_3_7.md)  
 [L<sub>25</sub>(5<sup>6</sup>)](l25_5_6.md)  
+[L<sub>64</sub>(8<sup>2</sup>4<sup>3</sup>)](l64_8_2_4_3.md)  
